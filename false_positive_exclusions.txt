@@ -5,8 +5,8 @@ Apple Discussions
 Archive.org
 Bandcamp
 BreachSta.rs Forum
+CGTrader
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -25,6 +25,7 @@ Realmeye
 Reddit
 Replit.com
 RocketTube
+RuneScape
 Scribd
 Shelf
 SlideShare
@@ -41,6 +42,7 @@ fixya
 igromania
 interpals
 mercadolivre
+minds
 opennet
 phpRU
 svidbook
