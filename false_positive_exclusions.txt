@@ -4,18 +4,18 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-BreachSta.rs Forum
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
+Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Rarible
@@ -25,10 +25,10 @@ Replit.com
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Splice
 Spotify
+Star Citizen
 Trovo
 TryHackMe
 Velomania
