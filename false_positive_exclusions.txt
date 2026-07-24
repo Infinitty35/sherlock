@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -15,10 +14,10 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
 Odysee
+OurDJTalk
 PCGamer
-Pornhub
+Patched
 Rarible
 Realmeye
 Reddit
@@ -29,7 +28,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Star Citizen
 Trovo
 TryHackMe
 Weblate
