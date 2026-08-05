@@ -5,6 +5,7 @@ Apple Discussions
 Archive.org
 Bandcamp
 Blogger
+CGTrader
 Chatujme.cz
 Codolio
 DeviantArt
@@ -17,8 +18,9 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-LessWrong
+Minecraft
 Odysee
+OurDJTalk
 PCGamer
 Patched
 Rarible
@@ -27,9 +29,9 @@ Reddit
 Replit.com
 ReverbNation
 RocketTube
-RuneScape
 Scribd
 Shelf
+Slack
 SlideShare
 Splice
 Spotify
