@@ -1,9 +1,11 @@
 7Cups
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -20,13 +22,14 @@ Hubski
 Instapaper
 ObservableHQ
 Odysee
+OurDJTalk
 PCGamer
 Pornhub
 Rarible
 Realmeye
 Reddit
-Replit.com
 ReverbNation
+RocketTube
 Scribd
 Shelf
 SlideShare
@@ -48,3 +51,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
