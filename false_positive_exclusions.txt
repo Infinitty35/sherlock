@@ -4,9 +4,11 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
 Codolio
+ColourLovers
 DeviantArt
 Discord.bio
 Envato Forum
@@ -16,10 +18,10 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -29,7 +31,6 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 Trovo
 TryHackMe
 Velomania
