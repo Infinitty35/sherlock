@@ -5,7 +5,6 @@ Apple Developer
 Apple Discussions
 Archive.org
 Bandcamp
-Blogger
 CGTrader
 Championat
 Chatujme.cz
@@ -22,7 +21,6 @@ Hashnode
 Houzz
 Hubski
 Instapaper
-Linktree
 ObservableHQ
 Odysee
 PCGamer
@@ -48,6 +46,7 @@ fixya
 fl
 hunting
 interpals
+mercadolivre
 opennet
 phpRU
 social.tchncs.de
